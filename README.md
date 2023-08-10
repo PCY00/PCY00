@@ -22,8 +22,9 @@
   <br>
   <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adafruit-000000?style=flat-square&logo=adafruit&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>
 </div>
 
@@ -32,8 +33,9 @@
   #### : : Using PlatForm
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </div>
 
 
