@@ -1,1 +1,1 @@
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://marshy-zephyr-c35.notion.site/Profile-928a4faf864542e692b2177ec2689945?pvs=4" target="_blank"><img src="https://img.shields.io/badge/j-000000?style=plastic&logo=Notion&logoColor=FFFFFF"/></a>
