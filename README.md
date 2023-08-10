@@ -2,5 +2,5 @@
 
 <a href="https://velog.io/@kksp12y" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=plastic&logo=Velog&logoColor=00FF00"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCY00&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCY00&show_icons=true&theme=midnight-purple)
 
