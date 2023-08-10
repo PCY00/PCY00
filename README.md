@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Rect&text=HardWare)
+  ![header](https://capsule-render.vercel.app/api?type=Rect&text=HW)
 </div>
 
 
