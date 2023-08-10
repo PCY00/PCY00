@@ -22,11 +22,17 @@
   <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>
 </div>
 
-#### : : Using IDE
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+<div align=center> 
+  #### : : Using PlatForm
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+  
+</div>
+
 
 
 <a href="https://velog.io/@kksp12y" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=plastic&logo=Velog&logoColor=00FF00"/></a>
