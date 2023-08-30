@@ -45,7 +45,6 @@
 <div align=center> 
   
   ####  :pushpin: BLOG and PORTFOLIO
-  
   <br>
   
   <a href="https://velog.io/@kksp12y" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=plastic&logo=Velog&logoColor=00FF00"/></a>
