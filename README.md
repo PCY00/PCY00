@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=9900FF&height=150&section=header&text=E_S/W&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=9900FF&height=150&section=header&text=CodeCircuitry&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
   ####  :smile: Welcome my github profile !
 </div>
   
