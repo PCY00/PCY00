@@ -45,7 +45,7 @@
   ####  :pushpin: BLOG and PORTFOLIO
   
   <a href="https://velog.io/@kksp12y" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=plastic&logo=Velog&logoColor=00FF00"/></a>
-  <a href="https://marshy-zephyr-c35.notion.site/Profile-928a4faf864542e692b2177ec2689945?pvs=4" target="_blank"><img src="https://marshy-zephyr-c35.notion.site/PCY-9f10e9da53734f3c88dcfc725bcf5baaF"/></a>
+  <a href="https://marshy-zephyr-c35.notion.site/PCY-9f10e9da53734f3c88dcfc725bcf5baa" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=plastic&logo=Notion&logoColor=FFFFFF"/></a>
 
 </div>
 
