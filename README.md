@@ -45,7 +45,7 @@
   ####  :pushpin: BLOG and PORTFOLIO
   
   <a href="https://velog.io/@kksp12y" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=plastic&logo=Velog&logoColor=00FF00"/></a>
-  <a href="https://kksp12y.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=plastic&logo=Tistory&logoColor=000000"/></a>
+  <a href="https://kksp12y.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=FFFFFF"/></a>
   <a href="https://marshy-zephyr-c35.notion.site/PCY-9f10e9da53734f3c88dcfc725bcf5baa" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=FFFFFF"/></a>
 
 </div>
